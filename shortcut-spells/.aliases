@@ -1,0 +1,30 @@
+# HARRY POTTER ALIASES
+# @author Vivian Tsai
+
+# accio: summons files
+alias accio="mdfind"
+
+# alohomora: unlocks read/write/execute permissions
+alias alohomora="chmod +rwx"
+
+# geminio: duplicates file
+alias geminio="cp"
+
+# nox: puts laptop in sleep mode
+alias nox="pmset sleepnow"
+
+# obliviate: clears current terminal window
+alias obliviate="clear"
+
+# priorincantato: shows past terminal commands
+# (only stores after you quit the shell)
+alias priorincantato="less ~/.bash_history"
+
+# revelio: shows all files, even hidden ones
+alias revelio="ls -a"
+
+# silencio: mutes volume
+# sonorus: sets volume to max level
+# (might have to add "sudo" in front of these)
+alias silencio="osascript -e 'set Volume 0'"
+alias sonorus="osascript -e 'set Volume 10'"

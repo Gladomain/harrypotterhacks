@@ -1,0 +1,21 @@
+#!/bin/bash
+echo "---------------------------------------------------------------------------"
+# accio
+echo -e "accio [text]\t\tsummons files containing [text]"
+# alohomora
+echo -e "alohomora [file]\tunlocks read/write/execute permissions for [file]"
+# gemino
+echo -e "geminio [old] [new]\tduplicates [old] and saves it as [new]"
+# nox
+echo -e "nox\t\t\tputs laptop in sleep mode (thus extinguishing light)"
+# obliviate
+echo -e "obliviate\t\tclears Terminal screen (thus erasing current memory)"
+# prior incantato
+echo -e "priorincantato\t\treveals the most recent Terminal commands performed"
+# revelio
+echo -e "revelio\t\t\treveals concealed files in directory"
+# silencio
+echo -e "silencio\t\tmutes laptop volume"
+# sonorus
+echo -e "sonorus\t\t\tamplifies laptop volume to max level"
+echo "---------------------------------------------------------------------------"
