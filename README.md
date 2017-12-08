@@ -26,10 +26,10 @@ should print said reference list:
 accio [text]		summons files containing [text]
 alohomora [file]	unlocks read/write/execute permissions for [file]
 geminio [old] [new]	duplicates [old] and saves it as [new]
-nox					puts laptop in sleep mode (thus extinguishing light)
-obliviate			clears Terminal screen (thus erasing current memory)
+nox			puts laptop in sleep mode (thus extinguishing light)
+obliviate		clears Terminal screen (thus erasing current memory)
 priorincantato		reveals the most recent Terminal commands performed
-revelio				reveals concealed files in directory
-silencio			mutes laptop volume
-sonorus				amplifies laptop volume to max level
+revelio			reveals concealed files in directory
+silencio		mutes laptop volume
+sonorus			amplifies laptop volume to max level
 ```
