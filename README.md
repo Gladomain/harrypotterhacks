@@ -39,3 +39,10 @@ Prints a random quote from the Harry Potter series (by first choosing a book, th
 ```
 ./run.sh
 ```
+
+## arithmancy calculator
+Uses name arithmancy to compute people's character, heart, and social numbers. The calculator can be run using
+```
+./run.sh
+```
+Note: currently in progress
