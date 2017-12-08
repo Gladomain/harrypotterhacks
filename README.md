@@ -10,7 +10,7 @@ and view your past Terminal commands with
 ```
 priorincantato
 ```
-### set-up
+### Set-Up
 Note that the following installation instructions are written with Mac users in mind:
 
 The content of [.aliases](shortcut-spells/.aliases) can be directly copied/pasted into your laptop's bash profile (open `~/.bash_profile` with your favorite text editor). Afterwards, refresh with the command
@@ -32,4 +32,10 @@ priorincantato		reveals the most recent Terminal commands performed
 revelio			reveals concealed files in directory
 silencio		mutes laptop volume
 sonorus			amplifies laptop volume to max level
+```
+
+## hp quotes
+Prints a random quote from the Harry Potter series (by first choosing a book, then selecting a quote). The quote generator can be run using
+```
+./run.sh
 ```
